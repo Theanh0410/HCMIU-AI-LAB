@@ -1,0 +1,7 @@
+predict_labels <- NB.predict => debug predict => debug predict_proba => debug p_spam/p_ham
+- pspam/pham ok
+- parameters is almost okay
+=> fit() is okay i guess
+- change iteration in predict()
+- prob[] is ok now
+=> predict is okay => predict proba okay now
